@@ -16,5 +16,6 @@ La procédure de configuration et d'utilisation d'AWS Lambda comprend plusieurs 
 - Vérification et déploiement : Passez en revue toutes les configurations effectuées jusqu'à présent, vérifiez les paramètres de la fonction Lambda et déployez-la.
 - Test et surveillance : Vous pouvez effectuer des tests en exécutant manuellement votre fonction Lambda ou en vérifiant les journaux pour obtenir des informations de débogage.
   Vous pouvez également configurer des métriques et des alarmes pour surveiller les performances de votre fonction Lambda.
+
 Ceci est une vue d'ensemble simplifiée du processus de configuration d'AWS Lambda. En fonction de vos besoins spécifiques, il peut y avoir des étapes supplémentaires
 ou des configurations avancées à prendre en compte.
