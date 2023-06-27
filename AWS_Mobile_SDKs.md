@@ -25,8 +25,8 @@ Voici une procédure générale pour commencer :
   - vous devrez configurer les autorisations et les rôles IAM appropriés dans la console AWS.
   - Consultez la documentation d'AWS pour plus d'informations sur la configuration des autorisations.
 - Testez votre application :
-- Une fois que vous avez intégré les AWS Mobile SDKs et configuré les autorisations,
-- vous pouvez tester votre application pour vous assurer que les services AWS fonctionnent correctement.
+  - Une fois que vous avez intégré les AWS Mobile SDKs et configuré les autorisations,
+  - vous pouvez tester votre application pour vous assurer que les services AWS fonctionnent correctement.
 
 Il est important de noter que cette procédure est une vue d'ensemble générale, et les étapes spécifiques peuvent varier en fonction de vos besoins 
 et de votre plateforme de développement. Il est recommandé de se référer à la documentation officielle d'AWS et aux guides de démarrage fournis avec les SDKs pour des instructions détaillées.
