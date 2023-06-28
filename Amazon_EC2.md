@@ -1,3 +1,4 @@
+Lien vidéo de démonstration: https://youtu.be/dGCjX7Sy2i0
 La procédure de configuration d'Amazon EC2 (Elastic Compute Cloud) comprend plusieurs étapes. 
 Voici un aperçu général de la procédure :
 - Connexion à la console AWS : Accédez à la console de gestion AWS en utilisant vos informations d'identification AWS (identifiant et mot de passe).
