@@ -1,6 +1,8 @@
 Lien vidéo de démonstration: https://youtu.be/dGCjX7Sy2i0
+
 La procédure de configuration d'Amazon EC2 (Elastic Compute Cloud) comprend plusieurs étapes. 
 Voici un aperçu général de la procédure :
+
 - Connexion à la console AWS : Accédez à la console de gestion AWS en utilisant vos informations d'identification AWS (identifiant et mot de passe).
 - Lancement d'une instance EC2 : Dans la console AWS, accédez au service EC2 et cliquez sur "Lancer une instance" pour démarrer le processus de création d'une nouvelle instance EC2.
 - Choix d'une AMI (Amazon Machine Image) : Sélectionnez une AMI qui correspond à l'environnement et au système d'exploitation souhaités pour votre instance EC2. Vous pouvez choisir parmi les AMI AWS prédéfinies ou 
